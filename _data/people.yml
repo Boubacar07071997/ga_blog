@@ -1,0 +1,8 @@
+- name: "Mike"
+  occupation: "Giraffe Academy"
+
+- name : "Steve"
+  occupation : "FireFighter"
+
+- name : "Rob"
+  occupation : "Programmer"
